@@ -1,0 +1,35 @@
+.service-task
+{
+   display: flex;
+   justify-content: center;
+   padding: 3rem;
+   width: 65%;
+}
+.service-task main
+{
+    display: flex;
+   justify-content: center;
+   flex-direction: column;
+   width: 60%; 
+}
+.service-task main .task{
+ padding: 0.6rem 0rem;
+ display: flex;
+ justify-content: space-between;
+ align-self: center;
+ padding: 0.6rem 1rem;
+ align-items: center;
+ width: 60%;
+ margin-bottom: 5px;
+ border: 1px solid rgba(0, 0, 0, 0.271);
+ border-radius: 3px ;   
+ height: min-content;
+}
+.service-task main .task .ant-form-item 
+{
+    margin: 0;
+}
+.property-checkbox .task 
+{
+    border: none !important;
+}

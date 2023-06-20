@@ -1,0 +1,4 @@
+.ant-tabs >.ant-tabs-nav .ant-tabs-nav-operations-hidden
+{
+    display: none;
+}

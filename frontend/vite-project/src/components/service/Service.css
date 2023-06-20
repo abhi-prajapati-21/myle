@@ -1,0 +1,25 @@
+.service-page
+{
+    padding: 3rem 2rem;
+    display: flex; 
+    width: 35%;
+    justify-content: center;    
+    flex-direction: column;
+}
+.service-page .ant-radio-group 
+{
+    display: flex;
+    flex-direction: column;
+}
+.service-page-form .ant-radio-group .ant-radio-button-wrapper > label
+{
+    margin: 5px;
+}
+.service-page main
+{
+ width: 560px;   
+}
+/* .service-page .service-page-form .ant-form-item {
+ display: flex;
+ justify-content: center;
+} */

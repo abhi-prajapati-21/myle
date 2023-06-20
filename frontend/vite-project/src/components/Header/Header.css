@@ -1,0 +1,27 @@
+.header-main
+{
+ width: 100%;
+}
+.header-main .header-info
+{
+ background: #FFFAF5;
+ color: black;
+ padding: 0.7rem 0rem;
+}
+.header-main nav
+{
+ display: flex;
+ justify-content: space-between;
+ padding: 1rem 2rem;
+ align-items: center;   
+ background-color: white;
+ border-bottom: 1px solid #E9E9E9;
+}
+.header-main nav .call-now-btn
+{
+  background-color: #FF9900;  
+  width: 123px;
+  height: 45px;
+  color: white;
+  border: none;
+}
