@@ -63,7 +63,7 @@ const AddressDetails = ({ handleNext, handlePrivious }) => {
       </Form.Item>
       <Form.Item>
         <Button type="button" onClick={() => handlePrivious()}>
-          Previous
+          Next
         </Button>
       </Form.Item>
     </div>
